@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import './globals.css'
+import './../styles/globals.css'
 
 export const metadata: Metadata = {
   title: 'E-commerce',
@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-BR">
-      <body className='bg-gray-600'>{children}</body>
+      <body className="bg-gray-600">{children}</body>
     </html>
   )
 }
