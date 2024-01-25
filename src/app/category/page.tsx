@@ -1,12 +1,9 @@
 import React from 'react'
-import Header from '../components/header/header'
-import Footer from '../components/footer/footer'
-import CategoryCard from '../components/categoryCard/categoryCard'
+import CategoryCard from '../../components/categoryCard/categoryCard'
 
 export default function Category() {
   return (
     <>
-      <Header />
       <main>
         <div className="flex h-[545px] flex-col items-center p-6">
           <div className="w-1/2 py-4 font-bold text-white">RPG</div>
@@ -189,7 +186,6 @@ export default function Category() {
           </div>
         </div>
       </main>
-      <Footer />
     </>
   )
 }
