@@ -1,6 +1,8 @@
 import React from 'react'
+import Image from 'next/image'
 import Header from '../components/header/header'
 import Footer from '../components/footer/footer'
+import cardProfile from '../../../public/cardImage.jpeg'
 
 export default function Details() {
   return (
@@ -81,23 +83,23 @@ export default function Details() {
         <div className="h-70 w-full bg-black px-36">
           <h1 className="py-5 font-bold text-white">Galeria</h1>
           <div className="flex justify-start space-x-5 py-3">
-            <img
-              src="https://observatoriodegames.uol.com.br/wp-content/uploads/2023/04/Harry-Potter-Quidditch-Champions-1024x767.jpg"
+            <Image
+              src={cardProfile}
               alt="Harry"
               className="h-38 w-38 rounded border border-white"
             />
-            <img
-              src="https://observatoriodegames.uol.com.br/wp-content/uploads/2023/04/Harry-Potter-Quidditch-Champions-1024x767.jpg"
+            <Image
+              src={cardProfile}
               alt="Harry"
               className="h-38 w-38 rounded border border-white"
             />
-            <img
-              src="https://observatoriodegames.uol.com.br/wp-content/uploads/2023/04/Harry-Potter-Quidditch-Champions-1024x767.jpg"
+            <Image
+              src={cardProfile}
               alt="Harry"
               className="h-38 w-38 rounded border border-white"
             />
-            <img
-              src="https://observatoriodegames.uol.com.br/wp-content/uploads/2023/04/Harry-Potter-Quidditch-Champions-1024x767.jpg"
+            <Image
+              src={cardProfile}
               alt="Harry"
               className="h-38 w-38 rounded border border-white"
             />
