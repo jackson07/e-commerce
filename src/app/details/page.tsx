@@ -1,13 +1,10 @@
 import React from 'react'
 import Image from 'next/image'
-import Header from '../components/header/header'
-import Footer from '../components/footer/footer'
 import cardProfile from '../../../public/cardImage.jpeg'
 
 export default function Details() {
   return (
     <>
-      <Header />
       <main>
         <div className="flex h-120 w-full flex-col justify-between bg-[url('https://tm.ibxk.com.br/2022/03/21/21141233184394.jpg')] bg-cover bg-center px-36 text-white">
           <div className="flex space-x-6 pt-4">
@@ -106,7 +103,6 @@ export default function Details() {
           </div>
         </div>
       </main>
-      <Footer />
     </>
   )
 }
