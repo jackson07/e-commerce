@@ -1,0 +1,508 @@
+[
+    {
+        "id": "1234237890",
+        "name": "Elden Ring",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/aGhopp3MHppi7kooGE2Dtt8C.png",
+        "price": 99.90,
+        "discount": 0.1,
+        "platform": "PS5",
+        "category": "Ação, RPG",
+        "summary": "Em Elden Ring, os jogadores assumem o papel de um Tarnished, um exilado que retorna a Terra dos Entres, uma terra devastada por uma guerra civil. Os jogadores devem explorar o mundo aberto do jogo, derrotar chefes poderosos e encontrar a glória em Elden Ring.",
+        "description": "Em Elden Ring, os jogadores assumem o papel de um Tarnished, um exilado que retorna a Terra dos Entres, uma terra devastada por uma guerra civil. Os jogadores devem explorar o vasto mundo aberto do jogo, derrotar chefes poderosos e encontrar as Grandes Runas, artefatos antigos que concederão ao vencedor o poder de se tornar o Elden Lord.",
+        "developer": "FromSoftware",
+        "editor": "Bandai Namco Entertainment",
+        "languages": "Português, Inglês, Francês, Espanhol, Alemão, Japonês",
+        "isReleased": true,
+        "dateReleased": "25 de fevereiro de 2022",
+        "gallery": [
+          "https://s2-techtudo.glbimg.com/GqoDkLHtdlDxtebf9IKWETjCOEI=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/D/5/rhnTl5Q7yEhJoJNiz99Q/capa.png",
+          "https://files.tecnoblog.net/wp-content/uploads/2022/05/elden-ring-redefinir-atributos-1060x596.jpg",
+          "https://media.npr.org/assets/img/2022/02/23/eldenring_12_4k-15314260c26db292d294.19097828_wide-161dfc66bc811e88068d50172fabcdd854b56778-s1100-c50.jpg",
+          "https://sm.ign.com/t/ign_br/gallery/e/elden-ring/elden-ring-gameplay-demo-screenshots_s4ys.600.jpg"
+        ]
+      },
+      {
+        "id": "2345678901",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+        "price": 59.99,
+        "discount": 0.5,
+        "platform": "Switch",
+        "category": "Aventura",
+        "summary": "Um jogo de aventura de mundo aberto ambientado em um mundo de fantasia.",
+        "description": "Em The Legend of Zelda: Breath of the Wild, os jogadores assumem o papel de Link, um jovem herói que acorda após um sono de 100 anos. Link deve explorar o vasto mundo aberto do jogo, derrotar chefes poderosos e encontrar as quatro Bestas Divinas, artefatos antigos que o ajudarão a derrotar Calamity Ganon, um demônio que ameaça Hyrule.",
+        "developer": "Nintendo EPD",
+        "editor": "Nintendo",
+        "languages": "Inglês, Japonês, Francês, Espanhol, Alemão, Italiano, Russo, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "03/03/17",
+        "gallery": [
+          "https://sm.ign.com/ign_br/gallery/o/our-favori/our-favorite-the-legend-of-zelda-breath-of-the-wild-screensh_b3kx.jpg",
+          "https://i.pcmag.com/imagery/reviews/05kV0iHXtm9IkEu1PMkh9pX-4.fit_scale.size_760x427.v1569481406.jpg",
+          "https://i.guim.co.uk/img/media/f093b0bd2564b447497a29906224a2c09a4e1132/60_0_1800_1080/master/1800.png?width=700&quality=85&auto=format&fit=max&s=b4217a13a02b33a4cd45362a310c8edb"
+        ]
+      },
+      {
+        "id": "3456789012",
+        "name": "Stardew Valley",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/440820/capsule_616x353.jpg?t=1581550226",
+        "price": 14.99,
+        "discount": 0.2,
+        "platform": "Windows",
+        "category": "RPG",
+        "summary": "Um simulador de vida agrícola ambientado em uma pequena vila.",
+        "description": "Em Stardew Valley, os jogadores assumem o papel de um jovem que herda uma fazenda de seu avô. Os jogadores devem cultivar a terra, criar animais, explorar minas e interagir com os moradores da vila.",
+        "developer": "ConcernedApe",
+        "editor": "Chucklefish",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "26/02/16",
+        "gallery": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzB4Ci9mCs3pZFULNIb3vQB1c0PVHQUuHtl2ktyuWHJb2b1bprWo4vYn_hCrPiSQru92s&usqp=CAU",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3--5EN6ZsyINkt_kR8Zz1U0On-g4BZMYIaQ8Penxruw7m3SilPLwHfCxXjYTUCKx52Sw&usqp=CAU",
+          "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvSjrggXQkNrKKeP4aE_afP8Td514h94GA8w8ZTrXIE3yjQQwG99POX3kJj1ZyzyriLso7c_AGYuDUfEh1PBPsIjuoPRvvqlUByP_dp485V1jyrvqCMHT4jYcWwEO2EMtmsYME29rfZDqYFLqh7yBOX2wt0eylNsDvuLhN-gbdkzCB72DrMxSk5zVlwHXq/s1280/stardew-valley.webp"
+        ]
+      },
+      {
+        "id": "4567890123",
+        "name": "Portal 2",
+        "image": "https://s2-techtudo.glbimg.com/qsICbvT_rjJ3uOICaGBT6iqvoPY=/0x0:300x200/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/R/c/hHBQU7RuuwWAo85mUVag/2011-05-03-portal.jpg",
+        "price": 19.99,
+        "discount": 0.2,
+        "platform": "Windows",
+        "category": "Puzzle",
+        "summary": "Um jogo de quebra-cabeças com elementos de plataforma ambientado em uma instalação de pesquisa abandonada.",
+        "description": "Em Portal 2, os jogadores assumem o papel de Chell, uma mulher que acorda em uma instalação de pesquisa abandonada. Chell deve usar a porta portal para resolver quebra-cabeças e escapar da instalação.",
+        "developer": "Valve",
+        "editor": "Valve",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "18/04/11",
+        "gallery": [
+          "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_400/ncom/software/switch/70070000013722/584a4a54c65ceb165a54b8a882a532136fb1a07c389ae7396b7400f65a7c3ed7",
+          "https://http2.mlstatic.com/D_NQ_NP_831406-MLB49388058362_032022-O.webp",
+          "https://www.arkade.com.br/wp-content/uploads/2011/05/portal-1.jpg"
+        ]
+      },
+      {
+        "id": "5678901234",
+        "name": "Red Dead Redemption 2",
+        "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+        "price": 59.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Ação",
+        "summary": "Um jogo de ação e aventura ambientado no Velho Oeste.",
+        "description": "Em Red Dead Redemption 2, os jogadores assumem o papel de Arthur Morgan, um fora da lei que faz parte da gangue Van der Linde. Arthur deve ajudar a gangue a sobreviver em um mundo em mudança, enquanto luta contra seus próprios demônios internos.",
+        "developer": "Rockstar Games",
+        "editor": "Rockstar Games",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "26/10/18",
+        "gallery": [
+          "https://static.gamevicio.com/imagens_up/big/78/mais-real-que-a-realidade-red-dead-redemption-2-fica-impressionante-com-modificacao-nos-graficos-077159.jpg",
+          "https://s2.glbimg.com/ffvbgpQbg2kI04Ew_duXr13M5CI=/600x0/filters:quality(70)/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/P/Y/mSpQzzSrmk1JzB2d0auQ/2018-02-01-3.jpg",
+          "https://s2-g1.glbimg.com/uotvvVMblcvSTDFJ_mqfW3lZD2Y=/0x0:1548x888/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/0/K/z5YpjnSjAb1xqrJiAgDw/red-dead-redemption-2-2.jpg"
+        ]
+      },
+      {
+        "id": "6789012345",
+        "name": "Celeste",
+        "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000006442/691ba3e0801180a9864cc8a7694b6f98097f9d9799bc7e3dc6db92f086759252",
+        "price": 24.99,
+        "discount": 0.0,
+        "platform": "Windows",
+        "category": "Indie",
+        "summary": "Um jogo de plataforma desafiador e comovente.",
+        "description": "Em Celeste, os jogadores assumem o papel de Madeline, uma jovem que decide escalar o Monte Celeste. Madeline deve superar seus medos e traumas para alcançar o topo da montanha.",
+        "developer": "Maddy Thorson",
+        "editor": "Matt Makes Games",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "25/01/18",
+        "gallery": [
+          "https://miro.medium.com/max/1920/1*n0F_Gv8wtt5S9QsOa9OMEQ.jpeg",
+          "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fceleste%2Fhome%2F00-1920x1080-656978e07c631e4fb1dc5d2f435c536edaafd8d5.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AnQb3vCR0YQoATr5HGt8GAwHM4FQVM_zsVdtCjMFw0PlL9_LAW2ih7t7pG8fNx1-elA&usqp=CAU"
+        ]
+      },
+      {
+        "id": "7890123456",
+        "name": "Hades",
+        "image": "https://sm.ign.com/ign_br/screenshot/default/maxresdefault_9t4w.jpg",
+        "price": 24.99,
+        "discount": 0.3,
+        "platform": "macOS",
+        "category": "Ação",
+        "summary": "Um jogo de ação roguelike ambientado no submundo grego.",
+        "description": "Em Hades, os jogadores assumem o papel de Zagreus, o filho do deus Hades. Zagreus deve escapar do submundo grego, enfrentando uma variedade de inimigos e desafios ao longo do caminho.",
+        "developer": "Supergiant Games",
+        "editor": "Supergiant Games",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "26/08/20",
+        "gallery": [
+          "https://s2-techtudo.glbimg.com/FoCLWH7c13SWHr7ZsnlvUmsZxCU=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/x/7/Sn6QuzSuqJOHRtv9oqVQ/hades-09-dec-2019-01.jpg",
+          "https://1.bp.blogspot.com/-eC5SEGIu0yI/X4B1dee4cCI/AAAAAAAABzU/hcSBhvZ2pmcMUu_tm3ZcR5da37EC6_zyACLcBGAsYHQ/s1920/02.jpg",
+          "https://s2-techtudo.glbimg.com/3lcIPao1AuxhtPQP_tGFTIg0EEU=/0x0:1200x675/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/G/x/jVwJPXRoAuxTX50xYnLg/hades-2-tudo-sabemos-gameplay-foice-adaga-rogue-roguelike.jpg"
+        ]
+      },
+      {
+        "id": "0123456789",
+        "name": "Marvel's Spider-Man: Miles Morales",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
+        "price": 29.99,
+        "discount": 0.6,
+        "platform": "PS5",
+        "category": "Aventura",
+        "summary": "Um jogo de ação e aventura ambientado em Nova York.",
+        "description": "Em Marvel's Spider-Man: Miles Morales, os jogadores assumem o papel de Miles Morales, um jovem que assume o manto do Homem-Aranha após a morte de Peter Parker. Miles deve proteger Nova York de novos vilões, incluindo o Escorpião Negro.",
+        "developer": "Insomniac Games",
+        "editor": "Sony Interactive Entertainment",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "12/11/20",
+        "gallery": [
+          "https://cdn2.unrealengine.com/egs-marvelsspidermanmilesmorales-insomniacgamesnixxessoftware-g1a-02-1920x1080-16ea2c788f78.jpg?h=270&quality=medium&resize=1&w=480",
+          "https://i.ytimg.com/vi_webp/NTunTURbyUU/maxresdefault.webp",
+          "https://m.media-amazon.com/images/I/81Ke1uk4VwL._AC_UF350,350_QL80_.jpg"
+        ]
+      },
+      {
+        "id": "1234567890",
+        "name": "Grand Theft Auto V",
+        "image": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1920x1080_Hero-Carousel_V06-1920x1080-1503e4b1320d5652dd4f57466c8bcb79424b3fc0.jpg",
+        "price": 59.99,
+        "discount": 0.4,
+        "platform": "PS5",
+        "category": "Aventura",
+        "summary": "Um jogo de ação e aventura ambientado em Los Santos e Blaine County.",
+        "description": "Em Grand Theft Auto V, os jogadores assumem o papel de três criminosos: Michael De Santa, Franklin Clinton e Trevor Philips. Os jogadores devem realizar uma série de golpes para sobreviver em uma cidade implacável onde não podem confiar em ninguém, nem mesmo uns nos outros.",
+        "developer": "Rockstar North",
+        "editor": "Rockstar Games",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "17/09/13",
+        "gallery": [
+          "https://a-static.mlcdn.com.br/450x450/poster-cartaz-jogo-grand-theft-auto-v-gta-5-d-pop-arte-poster/poparteskins2/15938547436/bd4486eab27ecdd1c11de15f2bbe33d9.jpeg",
+          "https://i.ytimg.com/vi/Pf7cCvLUZI8/maxresdefault.jpg",
+          "https://images.ctfassets.net/wn7ipiv9ue5v/3yVDlCOrJnXMrb0yS4ea0y/ff2ba91de136504ac791401516d5053b/GTAV_Gen9_MFT_Webstore_Hero_3840x2160_DELIV.jpg"
+        ]
+      },
+      {
+        "id": "12345678901",
+        "name": "FIFA 23",
+        "image": "https://cdn2.unrealengine.com/ea-sports-fifa-23-is-coming-to-the-epic-games-store-1920x1080-398e19351a82.jpg",
+        "price": 59.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Esportes",
+        "summary": "Um jogo de futebol simulador.",
+        "description": "Em FIFA 23, os jogadores podem controlar sua equipe favorita e competir contra outros jogadores de todo o mundo. O jogo apresenta uma variedade de modos de jogo, incluindo o modo carreira, o modo Ultimate Team e o modo online.",
+        "developer": "EA Vancouver",
+        "editor": "Electronic Arts",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "30/09/23",
+        "gallery": [
+          "https://s2-techtudo.glbimg.com/UTSEdJ_WaO9FR8bheZaZlEC-Mn0=/0x0:1200x675/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/7/k/PYD4YCRS6Z3DRwBKweCQ/fifa-23-tudo-sobre-gmeplay-requisitos-minimos-times-femininos.jpg",
+          "https://s2-ge.glbimg.com/-_dVmVPQNBr8bUD7K4pCBujwzOY=/0x0:2048x1152/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/6/y/WfNYUQRS217f9wiEzmXA/nwsl-fifa-23.jpg",
+          "https://s2-techtudo.glbimg.com/VDD3PVusXGMHjPvE798zVwvyFwI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/h/R/4EPLfLQMG7XMjTbaazpg/kerr-lores-wm-16x9.jpg"
+        ]
+      },
+      {
+        "id": "12345678902",
+        "name": "NBA 2K23",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0817/saS5b6QmqC1CLXRWFFnDAdvk.jpg",
+        "price": 59.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Esportes",
+        "summary": "Um jogo de basquete simulador.",
+        "description": "Em NBA 2K23, os jogadores podem controlar seu jogador favorito ou equipe favorita e competir contra outros jogadores de todo o mundo. O jogo apresenta uma variedade de modos de jogo, incluindo o modo carreira, o modo MyTeam e o modo online.",
+        "developer": "Visual Concepts",
+        "editor": "2K Sports",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "19/09/23",
+        "gallery": [
+          "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_400/ncom/software/switch/70010000051900/4ff9fa7d97cfd1203f2ee26133ddb97fce45a8113b1dd3eded47f41192a1c779",
+          "https://i0.wp.com/xboxera.com/wp-content/uploads/2022/09/Screenshot-2022-09-09-122627.jpg?ssl=1",
+          "https://149367133.v2.pressablecdn.com/wp-content/uploads/2022/10/GadgetMatch-NBA-2K23-Review-Main-Gameplay.jpg"
+        ]
+      },
+      {
+        "id": "12345678903",
+        "name": "Forza Horizon 5",
+        "image": "https://store-images.s-microsoft.com/image/apps.33953.13718773309227929.bebdcc0e-1ed5-4778-8732-f4ef65a2f445.9428b75f-2c08-4e70-9f95-281741b15341?q=90&w=480&h=270",
+        "price": 59.99,
+        "discount": 0.1,
+        "platform": "Windows",
+        "category": "Corrida",
+        "summary": "Um jogo de corrida de mundo aberto.",
+        "description": "Em Forza Horizon 5, os jogadores podem explorar um mundo aberto mexicano repleto de estradas sinuosas, paisagens deslumbrantes e desafios emocionantes. O jogo apresenta uma variedade de carros, incluindo carros de rua, carros de corrida e carros off-road.",
+        "developer": "Playground Games",
+        "editor": "Xbox Game Studios",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "09/11/21",
+        "gallery": [
+          "https://img.olhardigital.com.br/wp-content/uploads/2021/07/ForzaHorizon5-05-16x9_WM_FestivalRace-scaled.jpg",
+          "https://t2.tudocdn.net/596926?w=824&h=494",
+          "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2021/06/forza-950x534.jpg"
+        ]
+      },
+      {
+        "id": "12345678904",
+        "name": "Need for Speed: Heat",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3121/XemhVDBuAEVrQXUkJF57ZsdX.jpg",
+        "price": 129.99,
+        "discount": 0.3,
+        "platform": "PS5",
+        "category": "Corrida",
+        "summary": "Um jogo de corrida de mundo aberto de corrida de rua.",
+        "description": "Em Need for Speed: Heat, os jogadores podem explorar um mundo aberto inspirado em Miami, onde podem competir em corridas de rua ilegais durante o dia e corridas de rua oficiais durante a noite. O jogo apresenta uma variedade de carros, incluindo carros de rua clássicos e modernos.",
+        "developer": "Ghost Games",
+        "editor": "Electronic Arts",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "08/08/19",
+        "gallery": [
+          "https://a-static.mlcdn.com.br/450x450/need-for-speed-heat-ps4-sony/bluewavesgame/24042021/a20c0c16e07f7e9ab96de6d7f97b39df.jpeg",
+          "https://cdn.akamai.steamstatic.com/steam/apps/1222680/ss_6994870577a41882c458cd00d852d8092116c81c.1920x1080.jpg?t=1701207088",
+          "https://media.contentapi.ea.com/content/dam/need-for-speed/nfs-heat/images/2019/08/nsfh-screenshot-back-shot-aug-19.jpg.adapt.crop16x9.652w.jpg"
+        ]
+      },
+      {
+        "id": "12345678905",
+        "name": "Resident Evil Village",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
+        "price": 59.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Terror",
+        "summary": "Um jogo de tiro em primeira pessoa de sobrevivência e terror.",
+        "description": "Resident Evil Village é um jogo de tiro em primeira pessoa de sobrevivência e terror. Os jogadores assumem o papel de Ethan Winters, que está procurando sua filha recém-nascida, Rosemary, que foi sequestrada por uma misteriosa vilã chamada Donna Beneviento. Ethan deve explorar uma vila remota na Europa Oriental enquanto luta contra uma variedade de criaturas horríveis, incluindo lobisomens, vampiros e outros monstros.",
+        "developer": "Capcom",
+        "editor": "Capcom",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "07/05/21",
+        "gallery": [
+          "https://m.media-amazon.com/images/I/91kKoQ4qYZL.jpg",
+          "https://sm.ign.com/ign_br/screenshot/default/resident-evil-village-012_d3rv.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjS9lYbfiLwojRIxZ_CEjTQnS__az7kJfMzw&usqp=CAU"
+        ]
+      },
+      {
+        "id": "12345678906",
+        "name": "The Last of Us",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png",
+        "price": 29.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Terror",
+        "summary": "Um jogo de ação e aventura com elementos de sobrevivência.",
+        "description": "The Last of Us é um jogo de ação e aventura com elementos de sobrevivência. Os jogadores assumem o papel de Joel Miller, um homem que é contratado para contrabandear uma jovem chamada Ellie para fora de uma zona de quarentena pós-apocalíptica. Joel e Ellie devem viajar pelos Estados Unidos devastados pela guerra enquanto lutam contra infectados, bandidos e outros perigos.",
+        "developer": "Naughty Dog",
+        "editor": "Sony Interactive Entertainment",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "14/06/13",
+        "gallery": [
+          "https://meups.com.br/wp-content/uploads/2022/12/the-last-of-us-part-ii.jpg",
+          "https://s2-techtudo.glbimg.com/RVjl1b1_u7DzaMoSMzyI7SITVvU=/0x0:620x349/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/C/0/YzGi4iQna00A2X8TxRTQ/2013-07-12-detonado-the-last-of-us.jpg",
+          "https://assets-prd.ignimgs.com/2023/03/13/2-game-giraffe-far-1678708396250.jpg"
+        ]
+      },
+      {
+        "id": "12345678907",
+        "name": "Starfield",
+        "image": "https://images.ctfassets.net/rporu91m20dc/2atek9zHEFOkmMMje2dFwp/86a8be1e1e405ca2297ea68b98833b48/Starfield_LargeHero_FullDirect.png?fit=fill&w=1200&h=600",
+        "price": 69.99,
+        "discount": 0.0,
+        "platform": "Microsoft Windows, Xbox Series X/S",
+        "category": "RPG",
+        "summary": "Um jogo de RPG de ficção científica de mundo aberto.",
+        "description": "Starfield é um jogo de RPG de ficção científica de mundo aberto desenvolvido pela Bethesda Game Studios. O jogo se passa no ano de 2330, onde os jogadores assumem o papel de um explorador espacial que viaja pelo cosmos em busca de aventura e descoberta.",
+        "developer": "Bethesda Game Studios",
+        "editor": "Bethesda Softworks",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "11/11/23",
+        "gallery": [
+          "https://t.ctcdn.com.br/j-t1jk6NyOyPIueV8TTPVjN90kc=/640x360/smart/i751638.jpeg",
+          "https://assetsio.reedpopcdn.com/STARFIELD-SITE_aiZ8Li5.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlpkBnwaDIsUYe58H6Ai-ogpDZCd-JWviJg&usqp=CAU"
+        ]
+      },
+      {
+        "id": "12345678908",
+        "name": "The Legend of Zelda: Breath of the Wild 2",
+        "image": "https://observatoriodegames.uol.com.br/wp-content/uploads/2021/06/The-Legend-of-Zelda-Breath-of-the-Wild-2.jpg",
+        "price": 69.99,
+        "discount": 0.0,
+        "platform": "Nintendo Switch",
+        "category": "Aventura",
+        "summary": "Uma sequência do jogo de 2017 The Legend of Zelda: Breath of the Wild.",
+        "description": "The Legend of Zelda: Breath of the Wild 2 é uma sequência do jogo de 2017 The Legend of Zelda: Breath of the Wild. O jogo se passa no mesmo mundo do jogo original, mas expande o mapa para incluir novas áreas, como a região subaquática de Hyrule.",
+        "developer": "Nintendo EPD",
+        "editor": "Nintendo",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": false,
+        "dateReleased": "20/03/25",
+        "gallery": [
+          "https://files.tecnoblog.net/wp-content/uploads/2017/03/The-Legend-of-Zelda-Wii-u-NX.jpg",
+          "https://galaxianerd.com/wp-content/uploads/2022/03/the-legend-of-zelda-breath-of-the-wild-2__01.jpg",
+          "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/06/LOZBOTW2UpdatedHeader.png"
+        ]
+      },
+      {
+        "id": "12345678909",
+        "name": "Hogwarts Legacy",
+        "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000014724/72ce0a17215521a167c3da579db4cc48a2f7a52eacc81ad985ba20fd6817fdc2",
+        "price": 69.99,
+        "discount": 0.0,
+        "platform": "Windows",
+        "category": "Aventura",
+        "summary": "Um jogo de ação-aventura ambientado no mundo de Harry Potter.",
+        "description": "Hogwarts Legacy é um jogo de ação-aventura ambientado no mundo de Harry Potter. O jogo se passa no século 19, antes dos eventos dos livros e filmes de Harry Potter. Os jogadores assumem o papel de um bruxo ou bruxa que está estudando na Escola de Magia e Bruxaria de Hogwarts.",
+        "developer": "Avalanche Software",
+        "editor": "Warner Bros. Interactive Entertainment",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": false,
+        "dateReleased": "10/03/25",
+        "gallery": [
+          "https://assets.nuuvem.com/image/upload/t_screenshot_full/v1/products/6307dd93ba5b7c0014a7502e/screenshots/lgwmrmsqy76qvbgolyzm.jpg",
+          "https://img.olhardigital.com.br/wp-content/uploads/2022/12/screen-03.jpg",
+          "https://xboxpower-wp.s3.amazonaws.com/wp-content/uploads/2022/03/hogwarts_legacy.png"
+        ]
+      },
+      {
+        "id": "12345678910",
+        "name": "Forspoken",
+        "image": "https://cdn1.epicgames.com/offer/a472b0f2f2a5493d960a941f01cf3393/EGS_Forspoken_LuminousProductions_S1_2560x1440-f2f99882e9d396b21fb65735d266385a_2560x1440-f2f99882e9d396b21fb65735d266385a",
+        "price": 69.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Aventura",
+        "summary": "Um jogo de ação-aventura com elementos de RPG.",
+        "description": "Forspoken é um jogo de ação-aventura com elementos de RPG desenvolvido pela Luminous Productions e publicado pela Square Enix. O jogo se passa em um mundo fantástico chamado Athia, onde os jogadores assumem o papel de Frey Holland, uma jovem mulher que é transportada para Atia de Nova Iorque.",
+        "developer": "Luminous Productions",
+        "editor": "Square Enix",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": true,
+        "dateReleased": "11/10/23",
+        "gallery": [
+          "https://criticalhits.com.br/wp-content/uploads/2023/09/4EQU6LwMU5kDRtUcbAUeiR.jpg",
+          "https://sm.ign.com/ign_br/review/f/forspoken-/forspoken-review_hdhn.jpg",
+          "https://meups.com.br/wp-content/uploads/2022/12/Forspoken-7-900x503.jpg"
+        ]
+      },
+      {
+        "id": "12345678911",
+        "name": "The Callisto Protocol",
+        "image": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa",
+        "price": 59.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Terror",
+        "summary": "Um jogo de terror de sobrevivência ambientado no universo de PUBG.",
+        "description": "The Callisto Protocol é um jogo de terror de sobrevivência ambientado no universo de PUBG. O jogo se passa em Callisto, uma lua de Júpiter, no ano de 2320. Os jogadores assumem o papel de Jacob Lee, um prisioneiro que deve escapar de uma prisão secreta infestada de criaturas mutantes.",
+        "developer": "Striking Distance Studios",
+        "editor": "Krafton",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": false,
+        "dateReleased": "02/12/25",
+        "gallery": [
+          "https://store-images.s-microsoft.com/image/apps.45649.14320971346243109.69ff75ef-94be-4575-a630-9fd16bb28508.bb65c39b-cb7c-4386-ab51-5506aea29a43?q=90&w=480&h=270",
+          "https://cdn.mos.cms.futurecdn.net/dDYngJoViStfNKAPmPwqNH.png",
+          "https://cdn.vox-cdn.com/thumbor/g_ZlNxJ1kFrgLSOVWFehIabH1jA=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24248782/The_Callisto_Protocol__20221201173637.jpg"
+        ]
+      },
+      {
+        "id": "12345678912",
+        "name": "Marvel's Wolverine",
+        "image": "https://t2.tudocdn.net/658522?w=1920",
+        "price": 69.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Aventura",
+        "summary": "Um jogo de ação-aventura estrelando o Wolverine da Marvel.",
+        "description": "Marvel's Wolverine é um jogo de ação-aventura estrelando o Wolverine da Marvel. O jogo se passa em Madripoor, uma ilha corrupta no Oceano Pacífico. Os jogadores assumem o papel de Wolverine, que deve investigar um mistério envolvendo seu passado.",
+        "developer": "Insomniac Games",
+        "editor": "Sony Interactive Entertainment",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": false,
+        "dateReleased": "20/09/25",
+        "gallery": [
+          "https://i.ytimg.com/vi/Jfydm49qVTQ/maxresdefault.jpg",
+          "https://i.ytimg.com/vi/CpVUUUBTXGA/sddefault.jpg?v=6584605f",
+          "https://actionfigurebrasil.com.br/cdn/shop/products/wolverine_marvel_gallery_5fad807e11610.jpg?v=1679142152"
+        ]
+      },
+      {
+        "id": "12345678913",
+        "name": "God of War Ragnarök",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png",
+        "price": 69.99,
+        "discount": 0.0,
+        "platform": "PS5",
+        "category": "Aventura",
+        "summary": "A sequência do jogo de 2018 God of War.",
+        "description": "God of War Ragnarök é a sequência do jogo de 2018 God of War. O jogo continua a história de Kratos e Atreus, que estão em uma jornada para impedir o Ragnarök, o fim do mundo.",
+        "developer": "Santa Monica Studio",
+        "editor": "Sony Interactive Entertainment",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": false,
+        "dateReleased": "30/09/25",
+        "gallery": [
+          "https://ovicio.com.br/wp-content/uploads/2022/11/20221109-gowragnarok.webp",
+          "https://cdn.mos.cms.futurecdn.net/pxbyFXWMuhZDEJqTDCtv8f-1200-80.jpeg",
+          "https://s2-techtudo.glbimg.com/wH8v9MBQXbFBVhPz2C8FLYsVJ5g=/0x0:1280x720/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/C/K/6pdV7qS5yHwRg5KDzPBw/ame-godofwar-saibatudo.png"
+        ]
+      },
+      {
+        "id": "12345678916",
+        "name": "Redfall",
+        "image": "https://cdn1.epicgames.com/offer/48e20c81667c4ff49c85dd79ac3a01b0/EGS_Redfall_ArkaneStudios_S3_2560x1440-795d9cd066c3ffd24f540e1a38f8e9c9_2560x1440-795d9cd066c3ffd24f540e1a38f8e9c9",
+        "price": 69.99,
+        "discount": 0.0,
+        "platform": "Windows",
+        "category": "Tiro",
+        "summary": "Um jogo de tiro cooperativo ambientado em uma ilha infestada de vampiros.",
+        "description": "Redfall é um jogo de tiro cooperativo ambientado em uma ilha infestada de vampiros. Os jogadores assumem o papel de um dos quatro personagens únicos, cada um com suas próprias habilidades e armas.",
+        "developer": "Arkane Austin",
+        "editor": "Bethesda Softworks",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": false,
+        "dateReleased": "21/07/25",
+        "gallery": [
+          "https://images.ctfassets.net/rporu91m20dc/4i0PmKvegjMkI9EfzlTx6S/176ccddb99d305e96847714af7cd9c4c/Redfall_MobileCard_PCSpecs.png",
+          "https://s2-techtudo.glbimg.com/w8Ntrk1_-ZXhoW9V3dnD2iMotNE=/0x0:1200x675/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/p/j/Bmh0ufRbi47VsFGa16pg/redfall-guia-xbox-series-x-s-one-game-pass-arkane-studios-data-lancamento.jpg",
+          "https://t2.tudocdn.net/629791?w=824&h=494"
+        ]
+      },
+      {
+        "id": "12345678917",
+        "name": "Call of Duty: Modern Warfare III",
+        "image": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwii/MWII-LAUNCH-INTEL-TOUT.jpg",
+        "price": 69.99,
+        "discount": 0.0,
+        "platform": "Windows",
+        "category": "Tiro",
+        "summary": "A sequência do jogo de 2019 Call of Duty: Modern Warfare.",
+        "description": "Call of Duty: Modern Warfare II é a sequência do jogo de 2019 Call of Duty: Modern Warfare. O jogo continua a história de Task Force 141, uma equipe de operações especiais dos Estados Unidos.",
+        "developer": "Infinity Ward",
+        "editor": "Activision",
+        "languages": "Inglês, Francês, Espanhol, Alemão, Italiano, Russo, Japonês, Coreano, Chinês (Simplificado) e Chinês (Tradicional)",
+        "isReleased": false,
+        "dateReleased": "28/10/25",
+        "gallery": [
+          "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwii/MWII-002-REVEAL-TOUT.jpg",
+          "https://assets.xboxservices.com/assets/aa/42/aa42ebcd-6732-4739-9ce6-be219526ff24.jpg?n=CoD-MW-II_Feature-Image-Priority-Full-Width-0_Multiplayer_1248x702.jpg",
+          "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/body/mwii/MWII-LAUNCH-INTEL-006-WM.jpg"
+        ]
+      }
+]
+      
