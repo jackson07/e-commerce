@@ -6,7 +6,7 @@ export default function Details() {
   return (
     <>
       <main>
-        <div className="flex h-120 w-full flex-col justify-between bg-[url('https://tm.ibxk.com.br/2022/03/21/21141233184394.jpg')] bg-cover bg-center px-36 text-white">
+        <div className="flex h-120 w-full flex-col justify-between bg-[url('https://tm.ibxk.com.br/2022/03/21/21141233184394.jpg')] bg-cover bg-center px-[171px] text-white">
           <div className="flex space-x-6 pt-4">
             <h2 className="flex h-6 w-14 justify-center rounded-lg bg-green-600">
               RPG
@@ -28,7 +28,7 @@ export default function Details() {
             </button>
           </div>
         </div>
-        <div className="h-70 w-full bg-black px-36 text-white">
+        <div className="h-70 w-full bg-black px-[171px] text-white">
           <h1 className="pb-10 pt-5 font-bold">Sobre o jogo</h1>
           <h3 className="w-3/4">
             Hogwarts Legacy é um RPG de ação imersivo e de mundo aberto
@@ -45,7 +45,7 @@ export default function Details() {
             <br /> bruxo. Seu legado é o que você faz dele. Viva o Inesperado.
           </h3>
         </div>
-        <div className="h-64 w-full bg-gray-700 px-36">
+        <div className="h-64 w-full bg-gray-700 px-[171px]">
           <h1 className="pb-10 pt-5 font-bold text-white">Mais detalhes</h1>
           <div className="flex space-x-1">
             <h2 className="text-white">
@@ -77,7 +77,7 @@ export default function Details() {
           </div>
         </div>
 
-        <div className="h-70 w-full bg-black px-36">
+        <div className="h-70 w-full bg-black px-[171px]">
           <h1 className="py-5 font-bold text-white">Galeria</h1>
           <div className="flex justify-start space-x-5 py-3">
             <Image
