@@ -16,7 +16,9 @@ const config: Config = {
       height: {
         '38': '150px',
         '70': '279px',
+        '105': '420px',
         '120': '480px',
+        '144': '576px',
       },
       width: {
         '38': '150px',
@@ -65,8 +67,23 @@ const config: Config = {
         '95': '95%',
         '100': '100%',
       },
+      spacing: {
+        '5%': '5%',
+        '10%': '10%',
+        '15%': '15%',
+        '20%': '20%',
+      },
+      inset: {
+        '5%': '5%',
+        '10%': '10%',
+        '15%': '15%',
+        '20%': '20%',
+      },
     },
   },
-  plugins: [],
+  plugins: [
+    // ...
+    require('tailwind-scrollbar'),
+  ],
 }
 export default config

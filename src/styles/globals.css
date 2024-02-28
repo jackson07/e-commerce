@@ -1,3 +1,41 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+/* Estilo para navegadores WebKit (como Chrome e Safari) */
+::-webkit-scrollbar {
+    width: 6px; /* Largura do scrollbar */
+  }
+  
+  /* Estilo para a "trilha" do scrollbar (a barra cinza) */
+  ::-webkit-scrollbar-track {
+    background-color: transparent; /* Cor da trilha (fundo) */
+  }
+  
+  /* Estilo para a "thumb" do scrollbar (a barra deslizante) */
+  ::-webkit-scrollbar-thumb {
+    background-color: #333; /* Cor da barra deslizante */
+    border-radius: 6px; /* Borda arredondada */
+  }
+  
+  /* Estilo para a "corner" do scrollbar (o canto inferior direito) */
+  ::-webkit-scrollbar-corner {
+    background-color: transparent; /* Cor do canto inferior direito */
+  }
+  
+  /* Estilo para quando o scrollbar estiver sendo arrastado */
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: #555; /* Cor quando hover na barra deslizante */
+  }
+  
+  /* Estilo para quando o scrollbar estiver sendo clicado */
+  ::-webkit-scrollbar-thumb:active {
+    background-color: #666; /* Cor quando clicado na barra deslizante */
+  }
