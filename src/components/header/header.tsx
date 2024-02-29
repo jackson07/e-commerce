@@ -2,13 +2,16 @@ import React from 'react'
 import Image from 'next/image'
 import Logo from '@/../public/Logo.png'
 import { FaCartShopping } from 'react-icons/fa6'
-import DropDown from './dropDown'
+import DropDown from './DropDown'
+import Link from 'next/link'
 
 const Header: React.FC = () => {
   return (
     <header className="m-auto mt-8 flex w-full rounded-2xl bg-gray-600 p-8 text-white sm:w-3/4">
       <div className="flex h-8 w-11/12 items-center justify-start">
-        <Image src={Logo} alt="Logo" width={72} />
+        <Link href="/">
+          <Image src={Logo} alt="Logo" width={72} />
+        </Link>
         <nav className=" ml-9 w-2/5 md:w-4/5 ">
           <div className="relative flex items-center justify-center md:hidden">
             <DropDown />
